@@ -21,8 +21,8 @@ python main.py -i [Image File Path] -t i
 ```
 
 # ScreenShots 
-![Alt text](screenshots/ss1.jpeg?raw=true "Main Screen")
-![Alt text](screenshots/ss2.jpeg?raw=true "Main Screen 2")
+![Alt text](screenshots/ss1.jpg?raw=true "Main Screen")
+![Alt text](screenshots/ss2.jpg?raw=true "Main Screen 2")
 
 # Author
 furrki
