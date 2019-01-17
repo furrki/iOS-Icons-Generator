@@ -22,6 +22,7 @@ python main.py -i [Image File Path] -t i
 
 # ScreenShots 
 ![Alt text](screenshots/ss1.PNG?raw=true "Main Screen")
+__________________________________________________________
 ![Alt text](screenshots/ss2.PNG?raw=true "Main Screen 2")
 
 # Author
