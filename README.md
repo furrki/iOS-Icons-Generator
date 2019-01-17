@@ -21,8 +21,10 @@ python main.py -i [Image File Path] -t i
 ```
 
 # ScreenShots 
+AppIcon
 ![Alt text](screenshots/ss1.PNG?raw=true "Main Screen")
 __________________________________________________________
+Normal Icon
 ![Alt text](screenshots/ss2.PNG?raw=true "Main Screen 2")
 
 # Author
