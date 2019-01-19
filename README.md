@@ -17,7 +17,7 @@ python main.py -i [Image File Path]
 
 Else if you want to generate icons for Tabbars/Toolbars etc.
 ```
-python main.py -i [Image File Path] -t i
+python main.py -i [Image File Path] -t i -n star
 ```
 
 # ScreenShots 
